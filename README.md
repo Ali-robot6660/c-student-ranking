@@ -6,7 +6,7 @@
  *  Description:
  *    Program for managing and ranking students.
  *    - Input student data
- *    - Sort by grades and names
+ *    - Sort by grades
  *    - Display ranked table
  *
  ******************************************************
